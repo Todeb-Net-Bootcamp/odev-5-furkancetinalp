@@ -26,7 +26,7 @@ NOT: CRUD işlemleri de kullanılacaktı (Yanlış hatırlıyorsam düzeltin lü
 Customer Sınıfının Get Metodunun Çağırılması
 ![Ekran Görüntüsü (260)](https://user-images.githubusercontent.com/99509540/181817460-c282539a-0d74-41ca-a92c-b7465090a8cc.png)
 
-Customer Sınıfında Veri Eklenmesi (Veritabanında yalnızca '9'numaralı customerList eklendiği için o seçildi)
+Customer Sınıfında Veri Eklenmesi (Veritabanında yalnızca '9'numaralı customerList eklendiği için 9 numaralı customerList seçildi)
 ![Ekran Görüntüsü (265)](https://user-images.githubusercontent.com/99509540/181818500-75d55e6b-de30-4bb2-ba22-7a198c1a3ff0.png)
 
 Put İşlemi İçin Validation
